@@ -3,4 +3,3 @@
 /audio/
 bxtv.3a.ink
 catvod.com
-catvod.com/
